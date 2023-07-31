@@ -1,0 +1,7 @@
+D:\exercises\31-7\31-7 Assignment 19\31-7 Assignment 19\bin\Debug\31-7 Assignment 19.exe.config
+D:\exercises\31-7\31-7 Assignment 19\31-7 Assignment 19\bin\Debug\31-7 Assignment 19.exe
+D:\exercises\31-7\31-7 Assignment 19\31-7 Assignment 19\bin\Debug\31-7 Assignment 19.pdb
+D:\exercises\31-7\31-7 Assignment 19\31-7 Assignment 19\obj\Debug\31-7 Assignment 19.csproj.AssemblyReference.cache
+D:\exercises\31-7\31-7 Assignment 19\31-7 Assignment 19\obj\Debug\31-7 Assignment 19.csproj.CoreCompileInputs.cache
+D:\exercises\31-7\31-7 Assignment 19\31-7 Assignment 19\obj\Debug\31-7 Assignment 19.exe
+D:\exercises\31-7\31-7 Assignment 19\31-7 Assignment 19\obj\Debug\31-7 Assignment 19.pdb
